@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x4ED852c2ED79F587F8CADE4228d4cEDF3bEc16C7",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4ED852c2ED79F587F8CADE4228d4cEDF3bEc16C7",
+  "CONTRACT_ADDRESS": "0x7E31223852C7205799EDbb34F49bB14Fc266Fb9f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7E31223852C7205799EDbb34F49bB14Fc266Fb9f",
   "NETWORK": {
-    "NAME": "ETHEREUM - MAINNET",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "POLYGON (MATIC) - MAINNET",
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
   "NFT_NAME": "Fingers Galaxy NFT",
   "SYMBOL": "FGXNFT",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fingers-galaxy",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fingers-galaxy",
   "SHOW_BACKGROUND": true
 }
