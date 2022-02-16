@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https:fingersgalaxy.com");
+                  window.open("/config/redirect.html");
                 }}
                 style={{
                   margin: "5px",
