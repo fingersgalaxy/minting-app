@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x7E31223852C7205799EDbb34F49bB14Fc266Fb9f",
   "SCAN_LINK": "https://polygonscan.com/address/0x7E31223852C7205799EDbb34F49bB14Fc266Fb9f",
   "NETWORK": {
-    "NAME": "POLYGON (MATIC) - MAINNET",
+    "NAME": "POLYGON - MATIC",
     "SYMBOL": "MATIC",
     "ID": 137
   },
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 50,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/fingers-galaxy",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fingers-galaxy-nft",
   "SHOW_BACKGROUND": true
 }
